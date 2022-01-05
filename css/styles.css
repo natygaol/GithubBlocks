@@ -4,15 +4,12 @@ img.octocat {
 
 .container {
   background-color: rgb(235, 233, 233);
-  width: 950px;
+  width: 850px;
   margin: 0px auto;
   padding: 10px;
   font-weight: bolder;
   font-family: monospace;
   font-size: large;
-  display: flex;
-  flex-direction: column;
-  /* justify-content: space-between; */
   text-align: center;
 }
 
@@ -36,5 +33,5 @@ img.octocat {
   padding: 10px;
   background-color: white;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
